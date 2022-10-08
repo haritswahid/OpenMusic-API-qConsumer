@@ -1,1 +1,1 @@
-message broker ptp consumer for my learn-backend repository
+message broker ptp consumer for my OpenMusic-API repository
