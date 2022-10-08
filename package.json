@@ -1,0 +1,19 @@
+{
+  "name": "openmusic-api-qconsumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/haritswahid/OpenMusic-API-qConsumer.git",
+  "author": "Harits Wahid Vijayanto <haritswahid99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.8.0",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
